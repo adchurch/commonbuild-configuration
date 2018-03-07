@@ -2,6 +2,6 @@
 2017_build_version = '6'
 
 [repositories.Chassis-TimeSync-Custom-Device]
+${buildID} = '16'
 2017_build_version = '15'
-
 
