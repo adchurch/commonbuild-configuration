@@ -1,6 +1,7 @@
-[repositories.Chassis-TimeSync-Custom-Device]
-2017_build_version = '15'
-
 [repositories.CAN-Frame-Protection-Custom-Device]
 2017_build_version = '6'
+
+[repositories.Chassis-TimeSync-Custom-Device]
+build = '16'
+2017_build_version = '15'
 
