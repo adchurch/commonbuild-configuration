@@ -1,7 +1,7 @@
 # commonbuild-configuration
-This repository contains configuration data used by the [commonbuild continuous integration (CI) system](https://github.com/ni-veristand-cds/commonbuild). This repository contains configuration data for the GitHub organization in which it is located. This repository must be located in the same GitHub organization as a copy of the commonbuild library repository as well as the repositories for the projects being built. 
+This repository contains configuration data used by the [commonbuild continuous integration (CI) system](https://github.com/ni-veristand-cds/commonbuild). **configuration.toml** contains configuration data for the GitHub organization in which it is located. This repository must be located in the same GitHub organization as a copy of the commonbuild library repository as well as the repositories for the projects being built. 
 ### Using this Repository
-This repository tracks the build number for each repository and branch in this GitHub organization. The build numbers are stored in the **configuration.toml** file in the top level of this repository. 
+This repository tracks the build number for each repository in this GitHub organization. The build numbers are stored in the **configuration.toml** file in the top level of this repository. 
 
 For example, if the last build of the XYZ Custom Device for VeriStand 2017 was 10 and its repository is named XYZ-Custom-Device, then **configuration.toml** would contain:
 
