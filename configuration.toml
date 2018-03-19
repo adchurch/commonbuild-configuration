@@ -1,4 +1,5 @@
 [repositories.NI-Switch-Relay-Custom-Device]
+2016_build_number = 0
 2017_build_number = 1
 
 [repositories.CAN-Frame-Protection-Custom-Device]
