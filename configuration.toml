@@ -1,6 +1,6 @@
 [repositories.NI-Switch-Relay-Custom-Device]
 2017_release_branches = [ "master",]
-2016_build_number = 0
+2016_build_number = 1
 2017_build_number = 2
 
 [repositories.CAN-Frame-Protection-Custom-Device]
