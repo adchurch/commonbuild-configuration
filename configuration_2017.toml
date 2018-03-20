@@ -6,6 +6,6 @@ build_number = 2
 build_number = 6
 
 [repositories.Chassis-TimeSync-Custom-Device]
-build_number = 6
 release_branches = [ "master", "develop",]
-
+build_number = 6
+2017_build_number = 0
