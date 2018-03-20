@@ -9,5 +9,4 @@ build_number = 6
 
 [repositories.Chassis-TimeSync-Custom-Device]
 release_branches = [ "master", "develop",]
-build_number = 7
-
+build_number = 8
