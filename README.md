@@ -3,7 +3,19 @@
 This repository contains configuration data used by the [commonbuild continuous integration (CI) system](https://github.com/ni-veristand-cds/commonbuild). 
 
 The configuration files in this repository contain build configuration data for the projects in this GitHub organization. This repository must be located in the same GitHub organization as a copy of the commonbuild library repository as well as the repositories for the projects being built. 
-### Using this Repository
+
+### Setting up this repository for the first time
+To use this repository it must be initialized with a configuration file for each year version which includes at least one repository entry. Use any custom device repository or create an single-line self-referencing entry for this repository:
+
+*configuration_201x.toml* :
+
+    [repositories.commonbuild-configuration]
+    
+For conveience, pre-initialized configuration files are located in the **initial_config** branch of this repository.
+
+The CI system will always attempt to use the **master** branch of this repository to read configuration data. 
+
+### Using this repository
 This repository contains a configuration file for each year version of VeriStand. Currently only the build numbers and GitHub release configuration are stored in the **configuration_201x.toml** files.
 
 All configuration data for a given repository and year version of VeriStand is stored under a repository object in a **configuration_201x.toml** file. 
