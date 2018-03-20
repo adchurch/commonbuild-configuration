@@ -1,12 +1,2 @@
-[repositories.NI-Switch-Relay-Custom-Device]
-release_branches = [ "master",]
-build_number = 2
-
-[repositories.CAN-Frame-Protection-Custom-Device]
-build_number = 6
-
 [repositories.commonbuild-configuration]
 
-[repositories.Chassis-TimeSync-Custom-Device]
-release_branches = [ "master", "develop",]
-build_number = 22
