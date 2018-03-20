@@ -4,6 +4,7 @@ build_number = 2
 
 [repositories.Instrument-Custom-Device]
 build_number = 0
+release_branches = ["feature/integration-tests",]
 
 [repositories.CAN-Frame-Protection-Custom-Device]
 build_number = 6
