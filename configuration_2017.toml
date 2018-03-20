@@ -1,3 +1,5 @@
+[repositories.commonbuild-configuration]
+
 [repositories.NI-Switch-Relay-Custom-Device]
 release_branches = [ "master",]
 build_number = 2
