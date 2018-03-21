@@ -1,6 +1,9 @@
 [repositories.Instrument-Custom-Device]
 build_number = 2
 
+[repositories.NI-Switch-Relay-Custom-Device]
+build_number = 0
+
 [repositories.commonbuild-configuration]
 
 [repositories.Chassis-TimeSync-Custom-Device]
