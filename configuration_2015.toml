@@ -4,4 +4,4 @@ build_number = 3
 [repositories.commonbuild-configuration]
 
 [repositories.Chassis-TimeSync-Custom-Device]
-build_number = 13
+build_number = 14
