@@ -4,6 +4,9 @@ build_number = 3
 [repositories.NI-Switch-Relay-Custom-Device]
 build_number = 0
 
+[repositories.BCI-SLSC-VDT]
+build_number = 0
+
 [repositories.commonbuild-configuration]
 
 [repositories.Chassis-TimeSync-Custom-Device]
