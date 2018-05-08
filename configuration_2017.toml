@@ -4,7 +4,7 @@ build_number = 3
 
 [repositories.Instrument-Custom-Device]
 release_branches = [ "feature/integration-tests",]
-build_number = 3
+build_number = 4
 
 [repositories.Waveform-Processing-Custom-Device]
 build_number = 0
