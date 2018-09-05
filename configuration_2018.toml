@@ -1,3 +1,6 @@
+[repositories.CAN-Frame-Protection-Custom-Device]
+build_number = 0
+
 [repositories.commonbuild-configuration]
 
 [repositories.Data-Publishing-Service]
