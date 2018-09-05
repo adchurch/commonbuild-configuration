@@ -1,1 +1,4 @@
 [repositories.commonbuild-configuration]
+
+[repositories.Data-Publishing-Service]
+build_number = 0
