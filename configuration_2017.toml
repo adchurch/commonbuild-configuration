@@ -15,7 +15,7 @@ build_number = 16
 [repositories.commonbuild-configuration]
 
 [repositories.VeriStand-steps-for-TestStand]
-build_number = 0
+build_number = 1
 
 [repositories.Chassis-TimeSync-Custom-Device]
 release_branches = [ "master", "develop",]
