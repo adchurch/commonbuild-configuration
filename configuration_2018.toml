@@ -4,4 +4,4 @@ build_number = 0
 [repositories.commonbuild-configuration]
 
 [repositories.Data-Publishing-Service]
-build_number = 2
+build_number = 3
