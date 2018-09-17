@@ -6,6 +6,9 @@ build_number = 3
 release_branches = [ "feature/integration-tests",]
 build_number = 4
 
+[repositories.BCI-SLSC-VDT]
+build_number = 0
+
 [repositories.Waveform-Processing-Custom-Device]
 build_number = 2
 
