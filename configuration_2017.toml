@@ -10,7 +10,7 @@ build_number = 4
 build_number = 0
 
 [repositories.BCI-SLSC-VDT]
-build_number = 2
+build_number = 3
 
 [repositories.Waveform-Processing-Custom-Device]
 build_number = 2
