@@ -10,7 +10,7 @@ build_number = 29
 [repositories.commonbuild-configuration]
 
 [repositories.SET-1622-Arinc-Card]
-build_number = 0
+build_number = 1
 
 [repositories.Data-Publishing-Service]
 build_number = 4
